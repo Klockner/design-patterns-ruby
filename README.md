@@ -1,1 +1,1 @@
-# design-patterns-ruby
+Design Patterns Examples
